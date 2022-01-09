@@ -2,7 +2,7 @@
 A project I made while learning OpenGL and trying to wrap my head around CMake.
 After opening, you can draw any starting generation you want. Then press Space to run it.
 
-![Glider gun](https://gfycat.com/thornywarmbluebird)
+![Glider gun](https://thumbs.gfycat.com/ThornyWarmBluebird-mobile.mp4)
 
 Other "controls":
 While drawing:
