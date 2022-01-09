@@ -4,7 +4,7 @@ After opening, you can draw any starting generation you want. Then press Space t
 
 ![Glider gun](https://s10.gifyu.com/images/ezgif.com-gif-maker80c41a9cb0dbc82c.gif)
 
-Other "controls":
+Other "controls":  
 While drawing:
 
  - Space to run
