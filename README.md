@@ -23,4 +23,4 @@ To run it, first clone this repo
    
 Make sure to do it recursively, since the repo depends on a few libraries stored as a submodule (glfw, glad, glm) built from source.
 Then simply CMake it however you'd like.
-On default it runs a 1280x720 window with 10px cells, might add a better option then changing variables some time.
+On default it runs a 1280x720 window with 10px cells, might add a better option than changing variables some time.
